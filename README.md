@@ -7,4 +7,4 @@ make simple scientific calculator with CSS Grid, Vanilla Javascript, and Progres
 4. You can use firebase to hosting your work and then please email to jeffrey.nijstad@flock.company, CC to heriwahyudianto@flock.company
 
 
-if you have any question, please ask heriwahyudianto@flock.company with "ask for flock developer test"
+if you have any question, please ask heriwahyudianto@flock.company with subject "ask for flock developer test" 
